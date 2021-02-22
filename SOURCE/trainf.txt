@@ -1,0 +1,355 @@
+runcell(0, 'C:/Users/SB/Desktop/0000PT - Copy/Train.py')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading!............
+Run 2!
+Loading!............
+Epoch [0], train_loss: 1.4612, val_loss: 1.3960, val_acc: 0.2551
+Loading!............
+Epoch [1], train_loss: 1.3926, val_loss: 1.3901, val_acc: 0.2476
+Loading!............
+Epoch [2], train_loss: 1.3373, val_loss: 1.2763, val_acc: 0.4107
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runcell(0, 'C:/Users/SB/Desktop/0000PT - Copy/Train.py')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading!............
+Run 2!
+Loading!............
+Epoch [0], train_loss: 1.4611, val_loss: 1.3962, val_acc: 0.2551
+Loading!............
+Epoch [1], train_loss: 1.3925, val_loss: 1.3901, val_acc: 0.2476
+Loading!............
+Epoch [2], train_loss: 1.3668, val_loss: 1.2400, val_acc: 0.4218
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runcell(0, 'C:/Users/SB/Desktop/0000PT - Copy/Train.py')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading!............
+Run 2!
+Loading!............
+Epoch [0], train_loss: 1.4613, val_loss: 1.3962, val_acc: 0.2551
+Loading!............
+Epoch [1], train_loss: 1.3925, val_loss: 1.3903, val_acc: 0.2511
+Loading!............
+Epoch [2], train_loss: 1.3239, val_loss: 1.1732, val_acc: 0.4687
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runcell(0, 'C:/Users/SB/Desktop/0000PT/Train.py')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3909, val_acc: 0.2511
+Loading......!
+Epoch [2], train_loss: 1.2779, val_loss: 1.1058, val_acc: 0.5310
+Loading......!
+Epoch [3], train_loss: 1.0533, val_loss: 1.0506, val_acc: 0.5543
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runfile('C:/Users/SB/Desktop/0000PT/Train.py', wdir='C:/Users/SB/Desktop/0000PT')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4613, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3909, val_acc: 0.2511
+Loading......!
+Epoch [2], train_loss: 1.3908, val_loss: 1.3827, val_acc: 0.2477
+Loading......!
+Epoch [3], train_loss: 1.2309, val_loss: 1.1662, val_acc: 0.4724
+Loading......!
+Epoch [4], train_loss: 1.0624, val_loss: 0.9342, val_acc: 0.6217
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runfile('C:/Users/SB/Desktop/0000PT/Train.py', wdir='C:/Users/SB/Desktop/0000PT')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3899, val_acc: 0.2476
+Loading......!
+Epoch [2], train_loss: 1.3410, val_loss: 1.1877, val_acc: 0.4581
+Loading......!
+Epoch [3], train_loss: 1.0841, val_loss: 1.1611, val_acc: 0.4803
+Loading......!
+Epoch [4], train_loss: 0.9386, val_loss: 0.8816, val_acc: 0.6429
+Loading......!
+Epoch [5], train_loss: 0.7926, val_loss: 0.7976, val_acc: 0.6709
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runfile('C:/Users/SB/Desktop/0000PT/Train.py', wdir='C:/Users/SB/Desktop/0000PT')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3909, val_acc: 0.2511
+Loading......!
+Epoch [2], train_loss: 1.3421, val_loss: 1.2004, val_acc: 0.4489
+Loading......!
+Epoch [3], train_loss: 1.0926, val_loss: 1.1284, val_acc: 0.5147
+Loading......!
+Epoch [4], train_loss: 0.9482, val_loss: 0.8745, val_acc: 0.6468
+Loading......!
+Epoch [5], train_loss: 0.8195, val_loss: 0.8278, val_acc: 0.6583
+Loading......!
+Epoch [6], train_loss: 0.7131, val_loss: 0.6761, val_acc: 0.7296
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runfile('C:/Users/SB/Desktop/0000PT/Train.py', wdir='C:/Users/SB/Desktop/0000PT')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3961, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3899, val_acc: 0.2476
+Loading......!
+Epoch [2], train_loss: 1.3549, val_loss: 1.1897, val_acc: 0.4729
+Loading......!
+Epoch [3], train_loss: 1.0582, val_loss: 1.0438, val_acc: 0.5568
+Loading......!
+Epoch [4], train_loss: 0.9073, val_loss: 0.8416, val_acc: 0.6644
+Loading......!
+Epoch [5], train_loss: 0.7820, val_loss: 0.7725, val_acc: 0.6887
+Loading......!
+Epoch [6], train_loss: 0.6849, val_loss: 0.6699, val_acc: 0.7336
+Loading......!
+Epoch [7], train_loss: 0.6165, val_loss: 0.6416, val_acc: 0.7429
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runfile('C:/Users/SB/Desktop/0000PT/Train.py', wdir='C:/Users/SB/Desktop/0000PT')
+cuda
+['0001.png', 'test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3910, val_acc: 0.2511
+Loading......!
+Epoch [2], train_loss: 1.3193, val_loss: 1.1834, val_acc: 0.4682
+Loading......!
+Epoch [3], train_loss: 1.0835, val_loss: 0.9597, val_acc: 0.6062
+Loading......!
+Epoch [4], train_loss: 0.9364, val_loss: 0.8564, val_acc: 0.6600
+Loading......!
+Epoch [5], train_loss: 0.7947, val_loss: 0.7486, val_acc: 0.6970
+Loading......!
+Epoch [6], train_loss: 0.6844, val_loss: 0.7181, val_acc: 0.7183
+Loading......!
+Epoch [7], train_loss: 0.6071, val_loss: 0.6424, val_acc: 0.7461
+Loading......!
+Epoch [8], train_loss: 0.5311, val_loss: 0.5982, val_acc: 0.7769
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runcell(0, 'C:/Users/SB/Desktop/Do-An-MNR/Train.py')
+cuda
+['test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4611, val_loss: 1.3961, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3924, val_loss: 1.3895, val_acc: 0.2476
+Loading......!
+Epoch [2], train_loss: 1.2856, val_loss: 1.1365, val_acc: 0.5052
+Loading......!
+Epoch [3], train_loss: 1.0465, val_loss: 1.1065, val_acc: 0.5019
+Loading......!
+Epoch [4], train_loss: 0.9092, val_loss: 0.8572, val_acc: 0.6519
+Loading......!
+Epoch [5], train_loss: 0.7671, val_loss: 0.7334, val_acc: 0.7098
+Loading......!
+Epoch [6], train_loss: 0.6543, val_loss: 0.6420, val_acc: 0.7445
+Loading......!
+Epoch [7], train_loss: 0.5801, val_loss: 0.6093, val_acc: 0.7626
+Loading......!
+Epoch [8], train_loss: 0.5160, val_loss: 0.6246, val_acc: 0.7586
+Loading......!
+Epoch [9], train_loss: 0.4381, val_loss: 0.5887, val_acc: 0.7848
+Run 3!
+Run 4!
+Run main!
+Done!
+
+Train.py', wdir='C:/Users/SB/Desktop/Do-An-MNR')
+Reloaded modules: CNN, fk
+cuda
+['test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3961, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3899, val_acc: 0.2476
+Loading......!
+Epoch [2], train_loss: 1.3079, val_loss: 1.2098, val_acc: 0.4421
+Loading......!
+Epoch [3], train_loss: 1.0507, val_loss: 1.0217, val_acc: 0.5688
+Loading......!
+Epoch [4], train_loss: 0.9560, val_loss: 0.9127, val_acc: 0.6287
+Loading......!
+Epoch [5], train_loss: 0.8474, val_loss: 0.8728, val_acc: 0.6479
+Loading......!
+Epoch [6], train_loss: 0.7582, val_loss: 0.7515, val_acc: 0.7003
+Loading......!
+Epoch [7], train_loss: 0.6870, val_loss: 0.6553, val_acc: 0.7407
+Loading......!
+Epoch [8], train_loss: 0.6025, val_loss: 0.6155, val_acc: 0.7624
+Loading......!
+Epoch [9], train_loss: 0.5211, val_loss: 0.5512, val_acc: 0.7870
+Loading......!
+Epoch [10], train_loss: 0.4770, val_loss: 0.5601, val_acc: 0.7777
+Run 3!
+Run 4!
+Run main!
+Done!
+
+runcell(0, 'C:/Users/SB/Desktop/Do-An-MNR/Train.py')
+cuda
+['test', 'train']
+['bird', 'cat', 'frog', 'horse']
+torch.Size([3, 32, 32]) 0
+dataset.classes:  ['bird', 'cat', 'frog', 'horse']
+len(train_ds), len(val_ds):  15000 5000
+Run 0!
+Run 1!
+Loading......!
+Run 2!
+Loading......!
+Epoch [0], train_loss: 1.4612, val_loss: 1.3962, val_acc: 0.2551
+Loading......!
+Epoch [1], train_loss: 1.3925, val_loss: 1.3900, val_acc: 0.2476
+Loading......!
+Epoch [2], train_loss: 1.3911, val_loss: 1.3727, val_acc: 0.2866
+Loading......!
+Epoch [3], train_loss: 1.2221, val_loss: 1.3980, val_acc: 0.3825
+Loading......!
+Epoch [4], train_loss: 1.0633, val_loss: 0.9990, val_acc: 0.5878
+Loading......!
+Epoch [5], train_loss: 0.9154, val_loss: 0.8688, val_acc: 0.6473
+Loading......!
+Epoch [6], train_loss: 0.8192, val_loss: 0.8082, val_acc: 0.6756
+Loading......!
+Epoch [7], train_loss: 0.7239, val_loss: 0.6895, val_acc: 0.7235
+Loading......!
+Epoch [8], train_loss: 0.6505, val_loss: 0.6487, val_acc: 0.7485
+Loading......!
+Epoch [9], train_loss: 0.5665, val_loss: 0.6140, val_acc: 0.7653
+Loading......!
+Epoch [10], train_loss: 0.5210, val_loss: 0.5907, val_acc: 0.7781
+Loading......!
+Epoch [11], train_loss: 0.4582, val_loss: 0.5913, val_acc: 0.7827
+Run 3!
+Run 4!
+Run main!
+Done!
+Implement Neural Network using PyTorch
