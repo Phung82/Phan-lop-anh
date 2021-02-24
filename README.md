@@ -46,7 +46,7 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 3.4.	Giao diện và các chức năng của ứng dụng
  -------
 
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/05.png" width="500" height="400" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/05.png" width="600" height="400" />
 <p>Hình 3.7 Giao diện màn hình chính của ứng dụng</p>
  
  
