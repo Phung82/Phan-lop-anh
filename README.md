@@ -85,13 +85,11 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 TÀI LIỆU THAM KHẢO
 -------
 
-[ 1 ]	Trang chủ của Pytorch: https://pytorch.org/
-[ 2 ]	Tài liệu hỗ trợ của Pytorch: https://pytorch.org/tutorials/
-[ 3 ]	Blog Machine Learning Cơ Bản của T.s Vũ Hữu Tiệp:
-https://machinelearningcoban.com/
-[ 4 ]	MNIST Handwritten Digit Recognition in PyTorch: 
-https://nextjournal.com/
-[ 5 ]	Y. LeCun and Y. Bengio.“Convolutional networks for images, speech, and time series.” In M. A. Arbib, editor, The Handbook of Brain Theory and Neural Networks. MIT Press, 1995.
-[ 6 ]	Kenji Doi “Convert CIFAR-10 and CIFAR-100 datasets into PNG images”
-[ 7 ]	“Convert CIFAR-10 and CIFAR-100 datasets into PNG images” by Dan Clark, KDnuggets.
+    -   [ 1 ]	Trang chủ của Pytorch: https://pytorch.org/
+    -   [ 2 ]	Tài liệu hỗ trợ của Pytorch: https://pytorch.org/tutorials/
+    -   [ 3 ]	Blog Machine Learning Cơ Bản của T.s Vũ Hữu Tiệp: https://machinelearningcoban.com/
+    -   [ 4 ]	MNIST Handwritten Digit Recognition in PyTorch:    https://nextjournal.com/
+    -   [ 5 ]	Y. LeCun and Y. Bengio.“Convolutional networks for images, speech, and time series.” In M. A. Arbib, editor, The Handbook of Brain Theory and Neural Networks. MIT Press, 1995.
+    -   [ 6 ]	Kenji Doi “Convert CIFAR-10 and CIFAR-100 datasets into PNG images”
+    -   [ 7 ]	“Convert CIFAR-10 and CIFAR-100 datasets into PNG images” by Dan Clark, KDnuggets.
 
