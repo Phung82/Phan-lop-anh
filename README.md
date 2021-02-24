@@ -20,6 +20,7 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 -------
 3.1 Nêu bài toán
     - Nhiệm vụ của bài toán phân lớp là cần tìm một mô hình phân lớp để có thể xác định được dữ liệu được truyền vào là thuộc phân lớp nào trong 4 lớp “Bird”, “Cat”, “Frog”, “Horse”.
+ 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/01.jpg" width="600" height="400"/>
 <p>Hình 3.1 Sơ đồ mô phỏng 4 lớp “Bird”, “Cat”, “Frog”, “Horse”</p>
 
@@ -28,11 +29,39 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
     -   Tập dữ liệu thô được chia thành 5 lô đào tạo và một lô thử nghiệm, mỗi lô có 10000 hình ảnh. Lô thử nghiệm chứa chính xác 1000 hình ảnh được chọn ngẫu nhiên từ mỗi lớp. Các lô đào tạo chứa các hình ảnh còn lại theo thứ tự ngẫu nhiên, nhưng một số lô đào tạo có thể chứa nhiều hình ảnh từ lớp này hơn lớp khác. Giữa chúng, các lô đào tạo chứa chính xác 5000 hình ảnh từ mỗi lớp.
     -   Để chuẩn bị dữ liệu cho việc xây dựng ứng dùng thì, từ bộ dữ liệu CIFAR10 thô cần phải được chuyển đổi về bộ dữ liệu hình ảnh và được phân theo từng lớp với 2 nhóm dùng để huấn luyện và kiểm tra.
     -   Ở đây 4 bộ dữ liệu cần dung trong 10 bộ dữ liệu của CIFAR10 là: “Bird”, “Cat”, “Frog”, “Horse”.
+ 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/02.png" width="600" height="400" />
 <p>Hình 3.4 Cây thư mục của bộ dữ liệu</p>
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/03.png" width="600" height="400" />
 <p>Hình 3.5 Hình ảnh dùng cho việc kiểm tra của bộ dữ liệu về “Bird”</p>
 
+3.3.	Phương pháp lựa chọn đề tài
+    -   CNN (Convolutional Neural Network) là một Structure rất phổ biến và quen thuộc trong Deep Learning. CNN được ứng dụng nhiều trong Computer Vision, Recommender System, Natural Language Processing, ...
+    -   Với Convolutional Neural Network, đây là một deep neural network architectures. Hiểu đơn giản, nó cũng chính là một dạng Artificial Neural Network, một Multiplayer Perceptron nhưng mang thêm 1 vài cải tiến, đó là Convolution và Pooling.
+    
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/04.png" width="600" height="400" />
+<p>Hình 3.6 Mô hình Convolutional Neural Network</p>
+
+3.4.	Giao diện và các chức năng của ứng dụng
+ -------
+
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/05.png" width="600" height="400" />
+<p>Hình 3.7 Giao diện màn hình chính của ứng dụng</p>
+ 
+ 
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/06.png" width="600" height="400" />
+<p>Hình 3.8 Mô hình mạng nơ-ron CNN</p>
 
 
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/07.png" width="420" height="400" />
+<p>Hình 3.9 Kết quả thông số huấn luyện</p>
+
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/08.png" width="600" height="400" />
+<p>Hình 3.11 Giao diện diện huấn luyện mô hình mạng/p>
+
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/09.jpg" width="400" height="400"/>
+<p>Hình 3.12 Kết quả phân lớp “cat”</p>
+
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/10.jpg" width="400" height="400"/>
+<p>Hình 3.12 Kết quả phân lớp “horse”</p>
