@@ -46,11 +46,11 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 3.4.	Giao diện và các chức năng của ứng dụng
  -------
 
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/05.png" width="600" height="400" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/05.png" width="500" height="400" />
 <p>Hình 3.7 Giao diện màn hình chính của ứng dụng</p>
  
  
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/06.png" width="600" height="400" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/06.png" width="900" height="350" />
 <p>Hình 3.8 Mô hình mạng nơ-ron CNN</p>
 
 
@@ -58,10 +58,10 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 <p>Hình 3.9 Kết quả thông số huấn luyện</p>
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/08.png" width="600" height="400" />
-<p>Hình 3.11 Giao diện diện huấn luyện mô hình mạng/p>
+<p>Hình 3.11 Giao diện diện huấn luyện mô hình mạng</p>
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/09.jpg" width="400" height="400"/>
-<p>Hình 3.12 Kết quả phân lớp “cat”</p>
+<p>Hình 3.12 Kết quả phân lớp “cat” </p>
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/10.jpg" width="400" height="400"/>
 <p>Hình 3.12 Kết quả phân lớp “horse”</p>
