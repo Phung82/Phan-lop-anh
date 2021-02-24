@@ -40,7 +40,7 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
     -   CNN (Convolutional Neural Network) là một Structure rất phổ biến và quen thuộc trong Deep Learning. CNN được ứng dụng nhiều trong Computer Vision, Recommender System, Natural Language Processing, ...
     -   Với Convolutional Neural Network, đây là một deep neural network architectures. Hiểu đơn giản, nó cũng chính là một dạng Artificial Neural Network, một Multiplayer Perceptron nhưng mang thêm 1 vài cải tiến, đó là Convolution và Pooling.
     
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/04.png" width="600" height="400" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/04.png" width="800" height="250" />
 <p>Hình 3.6 Mô hình Convolutional Neural Network</p>
 
 3.4.	Giao diện và các chức năng của ứng dụng
