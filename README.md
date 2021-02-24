@@ -20,6 +20,6 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 -------
 3.1 Nêu bài toán
     - Nhiệm vụ của bài toán phân lớp là cần tìm một mô hình phân lớp để có thể xác định được dữ liệu được truyền vào là thuộc phân lớp nào trong 4 lớp “Bird”, “Cat”, “Frog”, “Horse”.
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/01.jpgg" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/01.jpg" />
 <p>Hình 3.1 Sơ đồ mô phỏng 4 lớp “Bird”, “Cat”, “Frog”, “Horse”</p>
 
