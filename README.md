@@ -1,4 +1,4 @@
-ĐỀ TÀI:
+SỬ DỤNG : CNN và CIFAR-10
 -------
 TÌM HIỂU NGÔN NGỮ PYTHON, THƯ VIỆN PYTORCH VÀ VIẾT ỨNG DỤNG PHÂN LỚP HÌNH ẢNH (BIRD, CAT, FROG, HORSE)
 -------
