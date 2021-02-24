@@ -20,7 +20,7 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 -------
 3.1 Nêu bài toán
     - Nhiệm vụ của bài toán phân lớp là cần tìm một mô hình phân lớp để có thể xác định được dữ liệu được truyền vào là thuộc phân lớp nào trong 4 lớp “Bird”, “Cat”, “Frog”, “Horse”.
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/01.jpg" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/01.jpg" width="420" height="420"/>
 <p>Hình 3.1 Sơ đồ mô phỏng 4 lớp “Bird”, “Cat”, “Frog”, “Horse”</p>
 
 3.2 Chuẩn bị dữ liệu
@@ -28,10 +28,10 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
     -   Tập dữ liệu thô được chia thành 5 lô đào tạo và một lô thử nghiệm, mỗi lô có 10000 hình ảnh. Lô thử nghiệm chứa chính xác 1000 hình ảnh được chọn ngẫu nhiên từ mỗi lớp. Các lô đào tạo chứa các hình ảnh còn lại theo thứ tự ngẫu nhiên, nhưng một số lô đào tạo có thể chứa nhiều hình ảnh từ lớp này hơn lớp khác. Giữa chúng, các lô đào tạo chứa chính xác 5000 hình ảnh từ mỗi lớp.
     -   Để chuẩn bị dữ liệu cho việc xây dựng ứng dùng thì, từ bộ dữ liệu CIFAR10 thô cần phải được chuyển đổi về bộ dữ liệu hình ảnh và được phân theo từng lớp với 2 nhóm dùng để huấn luyện và kiểm tra.
     -   Ở đây 4 bộ dữ liệu cần dung trong 10 bộ dữ liệu của CIFAR10 là: “Bird”, “Cat”, “Frog”, “Horse”.
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/02.png" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/02.png" width="420" height="420" />
 <p>Hình 3.4 Cây thư mục của bộ dữ liệu</p>
 
-<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/03.png" />
+<img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/03.png" width="420" height="420" />
 <p>Hình 3.5 Hình ảnh dùng cho việc kiểm tra của bộ dữ liệu về “Bird”</p>
 
 
