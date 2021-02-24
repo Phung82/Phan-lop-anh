@@ -65,3 +65,33 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/10.jpg" width="400" height="400"/>
 <p>Hình 3.12 Kết quả phân lớp “horse”</p>
+
+
+3.5.	Đánh giá
+    -   Ưu điểm
+            +   Ứng dụng phân loại hình ảnh dựa trên phương pháp CNNs đã đạt được một số điểm như sau:
+            +   Nắm được vấn đề cơ bản về deep learning và mạng nơ-ron.
+            +   Sử dụng tốt các thư viện hỗ trợ như Pytorch, tkinter, pillow để xử lý hình ảnh và dữ liệu, cũng như sử dụng ngôn ngữ lập trình python.
+            +   Nắm được các đặt điểm của bài toán phân lớp.
+    -   Khuyết điểm
+            +   Tốc độ huấn luyện tập dữ liệu còn hạn chế.
+            +   Cấu trúc ứng dụng còn đơn giản.
+3.6.	Hướng phát triển của bài toán
+    -   Nâng cao hiệu quả của chương trình, mở rộng số lượng các lớp nhận dạng nhiều hơn với tập dữ liệu CIFAR100.
+    -   Phát triển chương trình thành module phần cứng. Có khả năng tương thích với các thiết bị quan sát như camera…
+    -   Nghiên cứu theo hướng một ứng dụng cụ thể như: nhận diện phương tiện giao thông, nhận dạng các loại đồ vật, hàng hóa.
+
+-----------------------------------------------------------------------------------------------------
+TÀI LIỆU THAM KHẢO
+-------
+
+[ 1 ]	Trang chủ của Pytorch: https://pytorch.org/
+[ 2 ]	Tài liệu hỗ trợ của Pytorch: https://pytorch.org/tutorials/
+[ 3 ]	Blog Machine Learning Cơ Bản của T.s Vũ Hữu Tiệp:
+https://machinelearningcoban.com/
+[ 4 ]	MNIST Handwritten Digit Recognition in PyTorch: 
+https://nextjournal.com/
+[ 5 ]	Y. LeCun and Y. Bengio.“Convolutional networks for images, speech, and time series.” In M. A. Arbib, editor, The Handbook of Brain Theory and Neural Networks. MIT Press, 1995.
+[ 6 ]	Kenji Doi “Convert CIFAR-10 and CIFAR-100 datasets into PNG images”
+[ 7 ]	“Convert CIFAR-10 and CIFAR-100 datasets into PNG images” by Dan Clark, KDnuggets.
+
