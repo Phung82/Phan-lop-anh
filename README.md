@@ -53,6 +53,31 @@ CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/06.png" width="900" height="350" />
 <p>Hình 3.8 Mô hình mạng nơ-ron CNN</p>
 
+ Xác định hàm mất mát.
+ -------
+```
+Vì loss function đo đạc chênh lệch giữa y và y^, nên không lạ gì nếu ta nghĩ
+ngay đến việc lấy hiệu giữa chúng:
+𝐿(𝑦̂, 𝑦) = 𝑦̂ − 𝑦
+Tuy nhiên hàm này lại không thỏa mãn tính chất không âm của một loss
+function. Ta có thể sửa nó lại một chút để thỏa mãn tính chất này. Ví dụ như
+lấy giá trị tuyệt đối của hiệu:
+𝐿(𝑦̂, 𝑦) = |𝑦̂ − 𝑦|
+Loss function này không âm nhưng lại không thuận tiện trong việc cực tiểu hóa,
+bởi vì đạo hàm của nó không liên tục (nhớ là đạo hàm của f(x) = |x| bị đứt quãng
+tại x = 0) và thường các phương pháp cực tiểu hóa hàm số thông dụng đòi hỏi
+phải tính được đạo hàm. Một cách khác đó là lấy bình phương của hiệu:
+𝐿(𝑦̂, 𝑦) =
+1
+2
+(𝑦̂ − 𝑦)
+2
+Khi tính đạo hàm theo y^, ta được ∇L= 0.5 × 2 × (y^− y) = y^ − y. Các bạn có
+thể thấy rằng hằng số 1/2 được thêm vào chỉ để cho công thức đạo hàm được
+đẹp hơn, không có hằng số phụ. Loss function này được gọi là square loss.
+Square loss có thể được sử dụng cho cả regression và classification, nhưng
+thực tế thì nó thường được dùng cho regression hơn
+```
 
 <img   src="https://github.com/Phung82/Phan-lop-anh/blob/main/Screenshots/07.png" width="420" height="400" />
 <p>Hình 3.9 Kết quả thông số huấn luyện</p>
