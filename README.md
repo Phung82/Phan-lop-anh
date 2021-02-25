@@ -67,11 +67,7 @@ Loss function này không âm nhưng lại không thuận tiện trong việc c�
 bởi vì đạo hàm của nó không liên tục (nhớ là đạo hàm của f(x) = |x| bị đứt quãng
 tại x = 0) và thường các phương pháp cực tiểu hóa hàm số thông dụng đòi hỏi
 phải tính được đạo hàm. Một cách khác đó là lấy bình phương của hiệu:
-𝐿(𝑦̂, 𝑦) =
-1
-2
-(𝑦̂ − 𝑦)
-2
+𝐿(𝑦̂, 𝑦) =1/2(𝑦̂ − 𝑦)^2
 Khi tính đạo hàm theo y^, ta được ∇L= 0.5 × 2 × (y^− y) = y^ − y. Các bạn có
 thể thấy rằng hằng số 1/2 được thêm vào chỉ để cho công thức đạo hàm được
 đẹp hơn, không có hằng số phụ. Loss function này được gọi là square loss.
